@@ -1,0 +1,24 @@
+<div class="col-span-5">
+    <h2 class="text-5xl font-light py-4 mb-4">Community</h2>
+    <div class="bg-gray-100 px-4 py-4 rounded">
+        {{ range (where .Site.RegularPages ".Type" "posts") }}
+
+        <div class="flex justify-between py-4 border-b">
+            <a href="{{.Permalink}}"><span class="text-red-800">{{.Title}}</span></a>
+            <span class="text-gray-700">{{.Date.Format "Jan 2, 2006"}}</span>
+        </div>
+
+        {{ end }}
+
+    </div>
+    <div class="mt-8">
+        <p class="my-4">Discuss the project on our IRC channel <span class="text-red-800">#social</span> on
+            irc.freenode.net
+        </p>
+        <p class="my-4">Contribute code, report bugs and request features on our <span
+                class="text-red-800 underline">repository</span>.</p>
+
+        <p class="my-4">If you are a student you can also apply to <span class="text-red-800 underline">GNU social's
+                Summer of Code</span>.</p>
+    </div>
+</div>

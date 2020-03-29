@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+{{- partial "head.html" . -}}
+
+<body class="antialiased">
+    {{- partial "header.html" . -}}
+    {{- block "main" . }}{{- end }}
+    {{- partial "newsletter.html" . -}}
+    {{- partial "footer.html" . -}}
+</body>
+
+</html>

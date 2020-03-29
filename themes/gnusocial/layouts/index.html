@@ -1,0 +1,9 @@
+{{ define "main" }}
+{{- partial "hero.html" . -}}
+{{- partial "features.html" . -}}
+<div class="max-w-screen-xl mx-auto md:grid md:grid-cols-12 gap-4 py-4 px-4">
+    {{- partial "faqs.html" . -}}
+    {{- partial "community.html" . -}}
+</div>
+{{- partial "support.html" . -}}
+{{ end }}

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Group 11</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD-Copy" transform="translate(-506.000000, -839.000000)" fill="#A22430">
+            <g id="Group-12" transform="translate(250.000000, 823.000000)">
+                <g id="Group-8-Copy-2" transform="translate(240.000000, 0.000000)">
+                    <g id="Group-9">
+                        <g id="Group-11" transform="translate(16.000000, 16.000000)">
+                            <path d="M0,3.78947368 L12,8.84210526 L12,24 L0,18.9473684 L0,3.78947368 Z M18.6666667,0 L18.6666667,2.52631579 C18.6666667,3.92156147 15.6818983,5.05263158 12,5.05263158 C8.31810167,5.05263158 5.33333333,3.92156147 5.33333333,2.52631579 L5.33333333,0 C5.33333333,1.39524568 8.31810167,2.52631579 12,2.52631579 C15.6818983,2.52631579 18.6666667,1.39524568 18.6666667,0 Z" id="primary"></path>
+                            <polygon id="secondary" opacity="0.300000012" points="24 3.78947368 12 8.84210526 12 24 24 18.9473684"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

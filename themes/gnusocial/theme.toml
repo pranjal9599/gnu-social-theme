@@ -1,0 +1,13 @@
+name = "Gnusocial"
+license = "MIT"
+licenselink = "https://github.com/yourname/yourtheme/blob/master/LICENSE"
+description = "Theme for gnu social site"
+homepage = "https://gnusocial.network"
+tags = []
+features = []
+min_version = "0.1"
+
+[author]
+  name = "Pranjal Saxena"
+  homepage = "pranjal9599.github.io"
+
